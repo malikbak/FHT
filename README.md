@@ -1,4 +1,4 @@
-# Fasta Header Triming (FHT)
+# Fasta Header Trimming (FHT)
 
 ## Requirements:
 * optparse
